@@ -49,8 +49,9 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Demo video flutter app - 
-Demo video REST API -
+Demo video flutter app - https://youtu.be/Zhd4uBEkXBk
+
+Demo video REST API - https://youtu.be/t6hiHIqSnQg
 
 
 
