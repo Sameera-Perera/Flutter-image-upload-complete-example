@@ -78,6 +78,7 @@ Project Link: [https://github.com/Sameera-Perera/Flutter-image-upload-complete-e
 [stars-url]: https://github.com/Sameera-Perera/Flutter-image-upload-complete-example/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Sameera-Perera/Flutter-image-upload-complete-example.svg?style=for-the-badge
 [issues-url]: https://github.com/Sameera-Perera/Flutter-image-upload-complete-example/issues
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: http://www.linkedin.com/in/sameera-perera-1148081b8
 [product-screenshot]: home.png
