@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Sameera-Perera/Flutter-image-upload-complete-example.git
    ```
-2. Install NPM packages
+2. Install packages
    ```sh
    flutter pub get
    ```
